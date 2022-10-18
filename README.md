@@ -1,4 +1,4 @@
-# demographic_information
+# EDA
 En este repositorio se encuentra tarea de ejercicio hecho en clase
 
 # Universidad Nacional Autonoma De Honduras
