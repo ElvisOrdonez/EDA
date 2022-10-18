@@ -2,7 +2,11 @@
 En este repositorio se encuentra tarea de ejercicio hecho en clase
 
 # Universidad Nacional Autonoma De Honduras
-Asignatura: Inteligencia Artificial       Seccion: 1700        Maestro: Ing. Uayeb Caballero
+##
+Asignatura: Inteligencia Artificial       
+Seccion: 1700        
+Maestro: Ing. Uayeb Caballero
+##
 
 # Autor
 Elvis Jonathan Ordoñez Cantarero 
